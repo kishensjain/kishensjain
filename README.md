@@ -37,4 +37,4 @@ Advanced full-stack patterns, AI integration, database optimization, system desi
 
 ---
 
-⭐ Interested in my work? Feel free to star my repositories and reach out for collaboration!
+⭐ Interested in my work? Feel free to reach out for collaboration!
