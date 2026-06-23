@@ -12,12 +12,12 @@ Student developer passionate about full-stack web development and AI. 2 years of
 ## 🎯 Featured Projects
 
 - **[Distill - AI Research Assistant](https://github.com/kishensjain/distill-AI-research-assistant)** 
-  - AI-powered research tool built with Python, FastAPI, and React.js
+  - AI-powered research tool built with Python, FastAPI and Gradio
   - [Live Demo](https://kishensjain-distill-ai-research-assistant.hf.space/)
 
 - **[Bookstore Backend](https://github.com/kishensjain/bookstore-backend)** 
   - REST API showcasing best practices in backend development
-  - Built with Node.js, Express.js, TypeScript, and MySQL
+  - Built with Node.js, Express.js, TypeScript, and MongoDB
 
 ## 🌱 Currently Learning
 
