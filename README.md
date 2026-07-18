@@ -5,7 +5,7 @@ Student developer passionate about full-stack web development and AI. 2 years of
 ## 🛠️ Tech Stack
 
 **Languages**: Python, JavaScript, TypeScript  
-**Frontend**: React.js, Tailwind CSS, Shadcn  
+**Frontend**: React.js, Tailwind CSS, Zustand  
 **Backend**: Node.js, Express.js, FastAPI  
 **Databases**: MongoDB, MySQL
 
