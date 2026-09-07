@@ -1,6 +1,6 @@
 # Hi there, I'm Kishen S Jain 👋
 
-Student developer passionate about full-stack web development and AI. 2 years of coding experience building meaningful web applications.
+Student developer passionate about full-stack web development and AI. 1+ years of coding experience building meaningful web applications.
 
 ## 🛠️ Tech Stack
 
