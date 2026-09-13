@@ -21,7 +21,7 @@ Student developer passionate about full-stack web development and AI. 1+ years o
 
 ## 🌱 Currently Learning
 
-Advanced full-stack patterns, AI integration, database optimization, system design
+Advanced full-stack patterns, AI integration, database optimization
 
 ## 💡 About Me
 
