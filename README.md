@@ -1,19 +1,19 @@
 # Hi there, I'm Kishen S Jain 👋
 
-Student developer passionate about full-stack web development and AI. 1+ years of coding experience building meaningful web applications.
+Student developer passionate about full-stack web development and AI. 1+ year of coding experience building meaningful web applications.
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript, TypeScript  
-**Frontend**: React.js, Tailwind CSS  
+**Languages**: TypeScript, Python  
+**Frontend**: React.js, Tailwind CSS, Shadcn/ui  
 **Backend**: Node.js, Express.js  
 **Databases**: MongoDB, MySQL
 
 ## 🎯 Featured Projects
 
-- **[Distill - AI Research Assistant](https://github.com/kishensjain/distill-AI-research-assistant)** 
-  - AI-powered research tool built with Python, FastAPI and Gradio
-  - [Live Demo](https://kishensjain-distill-ai-research-assistant.hf.space/)
+- **[Cynello-ott-platform](https://github.com/kishensjain/cynelo-ott-platform)** 
+  - Cynelo is a full-stack movie catalog and OTT-style web application
+  - [Live Demo](https://cynelo-ott.vercel.app/)
 
 - **[Bookstore Backend](https://github.com/kishensjain/bookstore-backend)** 
   - REST API showcasing best practices in backend development
@@ -31,10 +31,9 @@ Advanced full-stack patterns, AI integration, database optimization
 
 ## 📫 Connect With Me
 
-- **Email**: jain.skishen@gmail.com
-- **LinkedIn**: [linkedin.com/in/kishen-s/](https://www.linkedin.com/in/kishen-s/)
-- **LeetCode**: [leetcode.com/u/kishensjain/](https://leetcode.com/u/kishensjain/)
-
+- [Email](mailto:jain.skishen@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kishen-s/)
+- [LeetCode](https://leetcode.com/u/kishensjain/)
 ---
 
 ⭐ Interested in my work? Feel free to reach out for collaboration!
