@@ -19,16 +19,6 @@ Student developer passionate about full-stack web development and AI. 1+ year of
   - REST API showcasing best practices in backend development
   - Built with Node.js, Express.js, TypeScript, and MongoDB
 
-## 🌱 Currently Learning
-
-Advanced full-stack patterns, AI integration, database optimization
-
-## 💡 About Me
-
-- 🚴 Cycling and reading enthusiast
-- 🎓 Focused on learning and continuous improvement
-- 🤝 Open to collaboration and open-source contributions
-
 ## 📫 Connect With Me
 
 - [Email](mailto:jain.skishen@gmail.com)
